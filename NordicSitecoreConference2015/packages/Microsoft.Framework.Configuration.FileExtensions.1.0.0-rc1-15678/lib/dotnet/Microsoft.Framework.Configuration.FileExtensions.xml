@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Framework.Configuration.FileExtensions</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:Microsoft.Framework.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Framework.Configuration.IConfigurationBuilder,System.String)" -->
+        <member name="M:Microsoft.Framework.Configuration.FileConfigurationExtensions.GetBasePath(Microsoft.Framework.Configuration.IConfigurationBuilder)">
+            <summary>
+            Gets the base path in <see cref="T:Microsoft.Framework.Configuration.IConfigurationBuilder"/> for file based providers.
+            </summary>
+            <param name="configurationBuilder">The <see cref="T:Microsoft.Framework.Configuration.IConfigurationBuilder"/> to add to.</param>
+            <returns>The <see cref="T:Microsoft.Framework.Configuration.IConfigurationBuilder"/>.</returns>
+        </member>
+    </members>
+</doc>
